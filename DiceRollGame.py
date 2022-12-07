@@ -7,7 +7,7 @@ def dice_roll():
     dice = random.randint(1, 4)
     return dice
 
-
+print("Hello") #test
 diceroll = [dice_roll(), dice_roll(), dice_roll(), dice_roll(), dice_roll()]  # dice roll
 
 
